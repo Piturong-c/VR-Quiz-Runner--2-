@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes - Broken/MenuF.unity
+    guid: 4e3e19b3cd756cc44a173662273d8d3f
+  - enabled: 0
+    path: Assets/Scenes - Broken/MainMenu.unity
+    guid: a327900efed652c4081b2ffe944328ed
+  - enabled: 1
+    path: Assets/Scenes - Broken/New Folder/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes - Broken/New Folder/SampleSceneNoVR.unity
+    guid: b76449280b7f42c4e8f6328b9fba3254
+  - enabled: 1
+    path: Assets/Scenes - Broken/MainMenuNoVR.unity
+    guid: 72b4668d69a1881428d2ccb3e9495172
+  - enabled: 1
+    path: Assets/Scenes - Broken/ZenModeSceneNoVR.unity
+    guid: 96a62a4d796cba946a23c24b58476e85
+  - enabled: 1
+    path: Assets/Scenes - Broken/ZenModeScene.unity
+    guid: f823eea3fcbc6a6428d8fd997a0911b3
+  m_configObjects: {}
